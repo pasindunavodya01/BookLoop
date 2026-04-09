@@ -39,6 +39,3 @@ A collaborative full-stack web application that enables users to share, browse, 
 
 ```bash
 git clone https://github.com/pasindunavodya01/BookLoop
-
-![Screenshot_9-4-2026_194038_bookloop iceiy com](https://github.com/user-attachments/assets/aabc4c38-baf7-46eb-a4d0-9c354475bf75)
-
